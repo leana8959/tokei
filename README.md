@@ -436,6 +436,7 @@ Julius
 KakouneScript
 Kotlin
 Lean
+Ledger
 Less
 Lingua Franca
 LinkerScript
