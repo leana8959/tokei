@@ -1406,6 +1406,10 @@
       "quotes": [["\\\"", "\\\""]],
       "extensions": ["shader", "cginc"]
     },
+    "Skel": {
+      "multi_line_comments": [["(*", "*)"]],
+      "extensions": ["skel", "sk"]
+    },
     "Slang": {
       "name": "Slang",
       "line_comment": ["//"],

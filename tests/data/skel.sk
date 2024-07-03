@@ -1,0 +1,11 @@
+(* 11 lines 5 code 5 comments 1 blanks *)
+
+(* ^ a blank line, a comment *)
+(*
+a multiline comment
+*)
+type ident
+type term =
+| Var ident
+| Lam (ident, term)
+| App (term, term)
