@@ -1742,6 +1742,12 @@
       "line_comment": ["//"],
       "extensions": ["wgsl"]
     },
+    "Why3": {
+      "name": "Why3",
+      "quotes": [["\\\"", "\\\""]],
+      "multi_line_comments": [["(*", "*)"]],
+      "extensions": ["mlw"]
+    },
     "Wolfram": {
       "quotes": [["\\\"", "\\\""]],
       "multi_line_comments": [["(*", "*)"]],
